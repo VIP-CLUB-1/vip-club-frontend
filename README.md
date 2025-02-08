@@ -1,5 +1,9 @@
 # React + TypeScript + Vite
 
+Links Importantes: 
+  UI Kit para protótipo: https://www.figma.com/design/XBQzDl4vDOO0pyxEGYcICt/Preview-%7C%C2%A0Dark-%7C-PrimeOne-%7C-3.0.1?node-id=6738-49722&p=f&t=kvCbhVvpxYnHqbck-0
+  UI Kit para implementação: https://primereact.org
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
